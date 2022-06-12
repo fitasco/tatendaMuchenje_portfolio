@@ -1,2 +1,2 @@
 # tatendaMuchenje_portfolio
-My projects
+My projects: Front-end projects
