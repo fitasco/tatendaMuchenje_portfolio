@@ -1,0 +1,11 @@
+{
+  "name": "pa-hasha",
+  "version": "1.0.0",
+  "description": "Food App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TM",
+  "license": "ISC"
+}
