@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import {  } from "../../portfolio";
+import { portfolio } from "../../portfolio";
 
 export default function Contact() {
   return (
